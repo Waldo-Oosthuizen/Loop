@@ -1,0 +1,35 @@
+[08-Jul-2026 12:52:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 12:52:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 12:53:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 12:55:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 12:57:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 13:00:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
+[08-Jul-2026 13:02:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'waldo'@'localhost' (using password: YES) in /home/fretnotm/waldowebdev.co.za/loop/db_check.php:7
+Stack trace:
+#0 /home/fretnotm/waldowebdev.co.za/loop/db_check.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/fretnotm/waldowebdev.co.za/loop/db_check.php on line 7
