@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 $db_server = "localhost";
 $db_user = "root";
 $db_pass = "";
-$db_name = "eventpro_db";
+$db_name = "YOUR_DB_NAME";
 $conn = "";
 
 try {
